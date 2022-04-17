@@ -4,7 +4,7 @@
 void merge(int a[], int l, int mid, int h) // nice2
 {
    int i = l, j= mid+1, k = l,  temp[50];
-
+//j
     while(i<=mid && j<=h)
     {
         if(a[i]<=a[j])
