@@ -1,7 +1,7 @@
 
 #include<stdio.h>
 //nice 
-void merge(int a[], int l, int mid, int h)
+void merge(int a[], int l, int mid, int h) // nice2
 {
    int i = l, j= mid+1, k = l,  temp[50];
 
