@@ -1,6 +1,6 @@
 
 #include<stdio.h>
-
+//nice 
 void merge(int a[], int l, int mid, int h)
 {
    int i = l, j= mid+1, k = l,  temp[50];
