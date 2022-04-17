@@ -5,7 +5,8 @@ void merge(int a[], int l, int mid, int h) // nice123433434
 {
    int i = l, j= mid+1, k = l,  temp[50];
 //j
-    while(i<=mid && j<=h)
+    while(i<=mid && j<=h)//now
+    
     {
         if(a[i]<=a[j])
         {
